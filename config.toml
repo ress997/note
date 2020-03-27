@@ -1,0 +1,26 @@
+languageCode = "ja"
+enableGitInfo = true
+hasCJKLanguage = true
+pluralizeListTitles = false
+footnoteReturnLinkContents = "↩"
+paginatePath = ""
+
+baseURL = "https://note.39.gy/"
+theme = "robust"
+
+title = "Ress Note."
+copyright = "&copy; 2018 Ress"
+googleAnalytics = "UA-128645055-5"
+
+[params]
+description = "未完成で完成形"
+dateformat = "2006-01-02"
+
+[params.author]
+name = "Ress"
+
+[taxonomies]
+tag = "tags"
+
+[outputs]
+page = ["HTML", "AMP"]
