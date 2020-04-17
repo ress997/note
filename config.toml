@@ -13,11 +13,15 @@ copyright = "&copy; 2018 Ress"
 googleAnalytics = "UA-128645055-5"
 
 [params]
-description = "未完成で完成形"
+description = "完成形で未完成"
 dateformat = "2006-01-02"
 
 [params.author]
 name = "Ress"
+thumbnail = "https://res.cloudinary.com/dagsofv2s/image/upload/q_auto:good/avatar/4c8e1e9131a1595c1cf80cc0a6cbe1ca67c2d366"
+description = "Hello"
+twitter = "ress997"
+github = "ress997"
 
 [taxonomies]
 tag = "tags"
