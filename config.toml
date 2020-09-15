@@ -5,7 +5,7 @@ pluralizeListTitles = false
 footnoteReturnLinkContents = "↩"
 paginatePath = ""
 
-baseURL = "https://note.39.gy/"
+baseURL = "https://note.ress.39.gy/"
 theme = "robust"
 
 title = "Ress Note."
